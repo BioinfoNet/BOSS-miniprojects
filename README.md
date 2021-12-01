@@ -1,5 +1,12 @@
 # BOSS-miniprojects
 The third phase, Hack, of the BOSS Events consists of the miniprojects. Our participants get to learn about reproducibility by reproducing research that has been done before or contributing to ongoing work. The projects will allow our participants to practice the skills they have learnt througout the workshops. 
+# Working Timelines
+Event                         | Date
+------------------------------| -----------------
+Commencement date             | 1st December 2021
+First progress Presentation   | 4th December 2021
+Second progress Presentation  | 11th December 2021
+Completion date               | 17th December 2021
 
 ## The Projects
 
